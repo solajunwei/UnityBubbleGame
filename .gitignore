@@ -1,5 +1,12 @@
 Library/*
+*/Library/*
+
 Temp/*
 *.sln
 *.csproj
 *.userprefs
+.vs
+.vsconfig
+*/obj/*
+
+
